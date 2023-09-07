@@ -10,7 +10,7 @@ packages = [{include = "simple_html_page"}]
 python = "^3.9"
 html5validator = "^0.4.2"
 pytest = "^7.4.0"
-webcode-tk = "^0.4.2"
+webcode-tk = "*"
 
 
 [build-system]
